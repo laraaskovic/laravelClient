@@ -122,7 +122,6 @@ function handleImageError() {
 
                             </div>
 
-
                         </a>
 
 
