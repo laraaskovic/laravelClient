@@ -125,10 +125,6 @@ function handleImageError() {
                         </a>
 
 
-                        
-                              
-
-
 
                         <a
                             href="https://laracasts.com"
